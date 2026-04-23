@@ -31,7 +31,7 @@ pipeline {
 
         stage('Run JMeter') {
             steps {
-                bat '"%JMETER_HOME%\\bin\\jmeter.bat" -n -t parabank_login_test.jmx -l test.jtl -e -o report'
+                bat '"%JMETER%\\bin\\jmeter.bat" -n -t parabank_login_test.jmx -l test.jtl -e -o report'
             }
         }
 
