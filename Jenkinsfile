@@ -36,13 +36,16 @@ pipeline {
         }
 
         stage('Publish Report') {
-            steps {
-                publishHTML([
-                    reportDir: 'report',
-                    reportFiles: 'index.html',
-                    reportName: 'JMeter Report'
-                ])
-            }
-        }
+    steps {
+        publishHTML([
+            reportDir: 'report',
+            reportFiles: 'index.html',
+            reportName: 'JMeter Report',
+            keepAll: true,
+            alwaysLinkToLastBuild: true,
+            allowMissing: true
+        ])
+    }
+}
     }
 }
