@@ -2,6 +2,11 @@ pipeline {
     agent any
 
     stages {
+        stage('Checkout') {
+            steps {
+                git 'https://github.com/prathamesh0225/selenium-grid-demo.git'
+            }
+        }
 
         stage('Build') {
             steps {
