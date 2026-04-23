@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1776971947845,1026,Open Home Page,200,OK,Users Load 1-1,text,true,,6180,190,2,2,https://parabank.parasoft.com/parabank/index.htm,1023,0,234
+1776971948875,603,Login Request,200,OK,Users Load 1-1,text,true,,6493,537,2,2,https://parabank.parasoft.com/parabank/overview.htm,310,0,0
+1776971948875,310,Login Request-0,302,Found,Users Load 1-1,,true,,299,291,2,2,https://parabank.parasoft.com/parabank/login.htm,310,0,0
+1776971949186,292,Login Request-1,200,OK,Users Load 1-1,text,true,,6194,246,2,2,https://parabank.parasoft.com/parabank/overview.htm,291,0,0
+1776971948808,777,Open Home Page,200,OK,Users Load 1-2,text,true,,6180,190,2,2,https://parabank.parasoft.com/parabank/index.htm,776,0,52
+1776971949479,277,Open Home Page,200,OK,Users Load 1-1,text,true,,4559,243,2,2,https://parabank.parasoft.com/parabank/index.htm,277,0,0
+1776971949586,538,Login Request,200,OK,Users Load 1-2,text,true,,6493,537,3,3,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1776971949586,276,Login Request-0,302,Found,Users Load 1-2,,true,,299,291,3,3,https://parabank.parasoft.com/parabank/login.htm,276,0,0
+1776971949863,261,Login Request-1,200,OK,Users Load 1-2,text,true,,6194,246,3,3,https://parabank.parasoft.com/parabank/overview.htm,261,0,0
+1776971949757,581,Login Request,200,OK,Users Load 1-1,text,true,,6493,537,3,3,https://parabank.parasoft.com/parabank/overview.htm,299,0,0
+1776971949757,299,Login Request-0,302,Found,Users Load 1-1,,true,,299,291,3,3,https://parabank.parasoft.com/parabank/login.htm,299,0,0
+1776971950056,282,Login Request-1,200,OK,Users Load 1-1,text,true,,6194,246,3,3,https://parabank.parasoft.com/parabank/overview.htm,282,0,0
+1776971950125,259,Open Home Page,200,OK,Users Load 1-2,text,true,,4559,243,2,2,https://parabank.parasoft.com/parabank/index.htm,258,0,0
+1776971949809,836,Open Home Page,200,OK,Users Load 1-3,text,true,,6180,190,2,2,https://parabank.parasoft.com/parabank/index.htm,836,0,61
+1776971950384,536,Login Request,200,OK,Users Load 1-2,text,true,,6493,537,3,3,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1776971950384,276,Login Request-0,302,Found,Users Load 1-2,,true,,299,291,3,3,https://parabank.parasoft.com/parabank/login.htm,276,0,0
+1776971950660,260,Login Request-1,200,OK,Users Load 1-2,text,true,,6194,246,3,3,https://parabank.parasoft.com/parabank/overview.htm,260,0,0
+1776971950807,333,Open Home Page,200,OK,Users Load 1-4,text,true,,6180,190,2,2,https://parabank.parasoft.com/parabank/index.htm,332,0,53
+1776971950646,759,Login Request,200,OK,Users Load 1-3,text,true,,6493,537,2,2,https://parabank.parasoft.com/parabank/overview.htm,482,0,0
+1776971950646,482,Login Request-0,302,Found,Users Load 1-3,,true,,299,291,2,2,https://parabank.parasoft.com/parabank/login.htm,482,0,0
+1776971951128,277,Login Request-1,200,OK,Users Load 1-3,text,true,,6194,246,2,2,https://parabank.parasoft.com/parabank/overview.htm,276,0,0
+1776971951405,278,Open Home Page,200,OK,Users Load 1-3,text,true,,4559,243,2,2,https://parabank.parasoft.com/parabank/index.htm,278,0,0
+1776971951140,586,Login Request,200,OK,Users Load 1-4,text,true,,6493,537,2,2,https://parabank.parasoft.com/parabank/overview.htm,307,0,0
+1776971951140,307,Login Request-0,302,Found,Users Load 1-4,,true,,299,291,2,2,https://parabank.parasoft.com/parabank/login.htm,307,0,0
+1776971951447,279,Login Request-1,200,OK,Users Load 1-4,text,true,,6194,246,2,2,https://parabank.parasoft.com/parabank/overview.htm,279,0,0
+1776971951727,275,Open Home Page,200,OK,Users Load 1-4,text,true,,4559,243,3,3,https://parabank.parasoft.com/parabank/index.htm,275,0,0
+1776971951808,328,Open Home Page,200,OK,Users Load 1-5,text,true,,6180,190,3,3,https://parabank.parasoft.com/parabank/index.htm,328,0,48
+1776971951683,572,Login Request,200,OK,Users Load 1-3,text,true,,6493,537,3,3,https://parabank.parasoft.com/parabank/overview.htm,294,0,0
+1776971951683,294,Login Request-0,302,Found,Users Load 1-3,,true,,299,291,3,3,https://parabank.parasoft.com/parabank/login.htm,294,0,0
+1776971951978,277,Login Request-1,200,OK,Users Load 1-3,text,true,,6194,246,3,3,https://parabank.parasoft.com/parabank/overview.htm,277,0,0
+1776971952003,578,Login Request,200,OK,Users Load 1-4,text,true,,6493,537,2,2,https://parabank.parasoft.com/parabank/overview.htm,298,0,0
+1776971952003,298,Login Request-0,302,Found,Users Load 1-4,,true,,299,291,2,2,https://parabank.parasoft.com/parabank/login.htm,298,0,0
+1776971952302,279,Login Request-1,200,OK,Users Load 1-4,text,true,,6194,246,2,2,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1776971952137,557,Login Request,200,OK,Users Load 1-5,text,true,,6493,537,1,1,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1776971952137,278,Login Request-0,302,Found,Users Load 1-5,,true,,299,291,1,1,https://parabank.parasoft.com/parabank/login.htm,278,0,0
+1776971952415,279,Login Request-1,200,OK,Users Load 1-5,text,true,,6194,246,1,1,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
+1776971952695,258,Open Home Page,200,OK,Users Load 1-5,text,true,,4559,243,1,1,https://parabank.parasoft.com/parabank/index.htm,258,0,0
+1776971952954,552,Login Request,200,OK,Users Load 1-5,text,true,,6493,537,1,1,https://parabank.parasoft.com/parabank/overview.htm,274,0,0
+1776971952954,274,Login Request-0,302,Found,Users Load 1-5,,true,,299,291,1,1,https://parabank.parasoft.com/parabank/login.htm,274,0,0
+1776971953228,278,Login Request-1,200,OK,Users Load 1-5,text,true,,6194,246,1,1,https://parabank.parasoft.com/parabank/overview.htm,278,0,0
